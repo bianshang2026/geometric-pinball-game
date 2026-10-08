@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84a59cfc0352324f916db8e415aa628, type: 3}
+  m_Name: Upgrade_BlastRadiusPlus
+  m_EditorClassIdentifier: 
+  kind: 7
+  title: "\u7206\u70B8\u8303\u56F4"
+  desc: "\u88AB\u52A8\uFF1A\u6240\u6709\u7206\u70B8\u8303\u56F4 +20%"
+  maxStacks: 3

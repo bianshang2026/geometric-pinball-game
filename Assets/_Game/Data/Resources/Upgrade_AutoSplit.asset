@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84a59cfc0352324f916db8e415aa628, type: 3}
+  m_Name: Upgrade_AutoSplit
+  m_EditorClassIdentifier: 
+  kind: 2
+  title: "\u5206\u88C2"
+  desc: "\u6BCF 3 \u6B21\u78B0\u649E\u81EA\u52A8\u5206\u88C2\u4E00\u9897\u5B50\u7403"
+  maxStacks: 2

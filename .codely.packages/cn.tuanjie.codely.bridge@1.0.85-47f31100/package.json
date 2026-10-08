@@ -1,0 +1,22 @@
+{
+  "name": "cn.tuanjie.codely.bridge",
+  "description": "TCP socket server for Unity Editor with port management and client handling capabilities",
+  "version": "1.0.85",
+  "displayName": "Codely Bridge",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.unity.ext.nunit": "1.0.6",
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "tcp",
+    "socket",
+    "networking",
+    "server",
+    "editor",
+    "tools"
+  ],
+  "author": {
+    "name": "Yousandi Technologies"
+  }
+}

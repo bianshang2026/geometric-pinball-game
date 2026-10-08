@@ -1,0 +1,29 @@
+{
+    "name": "UnityTcp.Editor",
+    "rootNamespace": "UnityTcp.Editor",
+    "references": [
+        "Cn.Tuanjie.Codely.Editor",
+        "Codely.Common",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Codely.Newtonsoft.Json.dll",
+        "Codely.Roslyn.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "",
+            "define": "CODELY_INPUT_SYSTEM"
+        }
+    ],
+    "noEngineReferences": false
+}

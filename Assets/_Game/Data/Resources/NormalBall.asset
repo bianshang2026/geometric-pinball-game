@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cf9ec81518c17a4087c80cd568c3983, type: 3}
+  m_Name: NormalBall
+  m_EditorClassIdentifier: 
+  ballName: "\u666E\u901A\u7403"
+  kind: 0
+  speed: 12
+  damage: 1
+  radius: 0.28
+  splitAngleDeg: 25
+  coreColor: {r: 1, g: 1, b: 1, a: 1}
+  glowColor: {r: 0.086, g: 0.91, b: 1, a: 1}
+  trailColor: {r: 1, g: 0.88, b: 0, a: 1}

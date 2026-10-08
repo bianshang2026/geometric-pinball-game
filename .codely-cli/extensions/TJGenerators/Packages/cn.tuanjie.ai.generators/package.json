@@ -1,0 +1,27 @@
+{
+  "name": "cn.tuanjie.ai.generators",
+  "version": "1.0.25",
+  "displayName": "团结AI资产生成",
+  "description": "TJGenerators for Unity 是一款强大的 AI 内容生成插件，集成团结 AI 平台的多模态生成能力。支持 3D 模型生成（Tripo、Rodin、混元）、天空盒生成、2D 精灵生成、表面材质生成、背景音乐生成等功能，帮助游戏开发者高效创作游戏资产。",
+  "unity": "2019.4",
+  "keywords": [
+    "TJGenerators",
+    "AI",
+    "3D-Model",
+    "Text-to-3D",
+    "Image-to-3D",
+    "Skybox",
+    "Sprite",
+    "Material",
+    "Music",
+    "团结"
+  ],
+  "dependencies": {
+    "cn.tuanjie.codely.bridge": "1.0.76",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.editorcoroutines": "1.0.1"
+  },
+  "type": "library"
+}

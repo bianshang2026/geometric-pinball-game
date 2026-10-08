@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84a59cfc0352324f916db8e415aa628, type: 3}
+  m_Name: Upgrade_Pierce
+  m_EditorClassIdentifier: 
+  kind: 1
+  title: "\u7A7F\u900F"
+  desc: "\u6BCF\u6B21\u53D1\u5C04\u53EF\u65E0\u89C6\u5F39\u5F00\uFF0C\u7A7F\u900F\u4E00\u4E2A\u65B9\u5757"
+  maxStacks: 3

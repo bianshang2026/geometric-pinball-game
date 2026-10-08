@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84a59cfc0352324f916db8e415aa628, type: 3}
+  m_Name: Upgrade_BlastOnDeath
+  m_EditorClassIdentifier: 
+  kind: 3
+  title: "\u7206\u88C2"
+  desc: "\u7403\u88AB\u56DE\u6536\u65F6\u5728\u56DE\u6536\u70B9\u4EA7\u751F\u7206\u70B8"
+  maxStacks: 2

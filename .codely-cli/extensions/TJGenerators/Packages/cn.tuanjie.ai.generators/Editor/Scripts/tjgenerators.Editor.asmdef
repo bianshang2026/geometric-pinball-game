@@ -1,0 +1,32 @@
+{
+    "name": "tjgenerators.Editor",
+    "rootNamespace": "TJGenerators",
+    "references": [
+        "System",
+        "System.Collections",
+        "System.Collections.Generic",
+        "System.IO",
+        "System.Linq",
+        "UnityEditor",
+        "UnityEngine",
+        "UnityEngine.Events",
+        "UnityEngine.Networking",
+        "Unity.EditorCoroutines.Editor",
+        "TJGenerators.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Codely.Newtonsoft.Json.dll",
+        "System.IO.Compression.dll",
+        "System.IO.Compression.FileSystem.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

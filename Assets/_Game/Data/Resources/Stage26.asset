@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4143fe5b173a5c445ad234238d73ecf7, type: 3}
+  m_Name: Stage26
+  m_EditorClassIdentifier: 
+  stageId: 26
+  stageName: "\u7CBE\u9510\u8D70\u5ECA"
+  ballStock: 3
+  coreHp: 18
+  corePos: {x: 0, y: 6.5}
+  entries:
+  - kind: 0
+    position: {x: -1.6, y: 3.6}
+    hp: 2
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 0
+    position: {x: 0, y: 4.2}
+    hp: 2
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 0
+    position: {x: 1.6, y: 3.6}
+    hp: 2
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 3
+    position: {x: 0, y: 5.6}
+    hp: 3
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 2
+    position: {x: -2.4, y: 5}
+    hp: 3
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 2
+    position: {x: 2.4, y: 5}
+    hp: 3
+    rotationDeg: 0
+    length: 1
+    variant: 1
+    spinDeg: 0
+  - kind: 0
+    position: {x: -3.2, y: 4}
+    hp: 1
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 0
+    position: {x: 3.2, y: 4}
+    hp: 1
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 0
+    position: {x: -1.2, y: 5}
+    hp: 1
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 0
+    position: {x: 1.2, y: 5}
+    hp: 1
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 0
+    position: {x: 0, y: 6.6}
+    hp: 1
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 12
+    position: {x: 1.8, y: 2}
+    hp: 3
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 11
+    position: {x: -2.2, y: 2.6}
+    hp: 3
+    rotationDeg: 0
+    length: 1.2
+    variant: 0
+    spinDeg: 3

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4143fe5b173a5c445ad234238d73ecf7, type: 3}
+  m_Name: Stage29
+  m_EditorClassIdentifier: 
+  stageId: 29
+  stageName: "\u95E8\u540E\u4E4B\u738B"
+  ballStock: 3
+  coreHp: 18
+  corePos: {x: 0, y: 6.5}
+  entries:
+  - kind: 8
+    position: {x: 0, y: 4}
+    hp: 3
+    rotationDeg: 90
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 8
+    position: {x: -1.6, y: 5.6}
+    hp: 3
+    rotationDeg: 90
+    length: 1
+    variant: 2
+    spinDeg: 0
+  - kind: 8
+    position: {x: 1.6, y: 5.6}
+    hp: 3
+    rotationDeg: 90
+    length: 1
+    variant: 2
+    spinDeg: 0
+  - kind: 7
+    position: {x: 0, y: 6.9}
+    hp: 3
+    rotationDeg: 0
+    length: 1.6
+    variant: 0
+    spinDeg: 0
+  - kind: 1
+    position: {x: -1, y: 6.6}
+    hp: 3
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 1
+    position: {x: 1, y: 6.6}
+    hp: 3
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 2
+    position: {x: 0, y: 3}
+    hp: 3
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 0
+    position: {x: -3, y: 3.6}
+    hp: 1
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 0
+    position: {x: 3, y: 3.6}
+    hp: 1
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0
+  - kind: 9
+    position: {x: -2.6, y: 5}
+    hp: 3
+    rotationDeg: 0
+    length: 1
+    variant: 0
+    spinDeg: 0

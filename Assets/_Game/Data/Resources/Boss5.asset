@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89f34a681839fd54aaefcedd9061428f, type: 3}
+  m_Name: Boss5
+  m_EditorClassIdentifier: 
+  bossName: "\u7EC8\u7109\u51E0\u4F55\u6838"
+  phases:
+  - hpTo: 0.66
+    shieldRingCount: 10
+    shieldRingRotSpeed: 50
+    weakArc: 0
+    weakArcSpeedDeg: 0
+    weakCritMultiplier: 2
+    weakArmorMultiplier: 0.2
+    gravityStrength: 0
+    gravityRadius: 2.5
+    spawnerPeriod: 0
+    spawnerMax: 0
+  - hpTo: 0.33
+    shieldRingCount: 0
+    shieldRingRotSpeed: 0
+    weakArc: 1
+    weakArcSpeedDeg: 70
+    weakCritMultiplier: 2
+    weakArmorMultiplier: 0.15
+    gravityStrength: 0
+    gravityRadius: 2.5
+    spawnerPeriod: 8
+    spawnerMax: 10
+  - hpTo: 0
+    shieldRingCount: 0
+    shieldRingRotSpeed: 0
+    weakArc: 1
+    weakArcSpeedDeg: 100
+    weakCritMultiplier: 2
+    weakArmorMultiplier: 0.1
+    gravityStrength: 60
+    gravityRadius: 3
+    spawnerPeriod: 6
+    spawnerMax: 12

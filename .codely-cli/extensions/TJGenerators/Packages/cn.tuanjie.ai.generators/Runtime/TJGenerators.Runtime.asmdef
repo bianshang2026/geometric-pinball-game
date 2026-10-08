@@ -1,0 +1,15 @@
+{
+    "name": "TJGenerators.Runtime",
+    "rootNamespace": "TJGenerators",
+    "references": [
+        "UnityEngine",
+        "UnityEngine.VideoModule"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,4 @@
+*.sh text eol=lf
+*.bat text eol=crlf
+*.meta text eol=lf
+.githooks/** text eol=lf

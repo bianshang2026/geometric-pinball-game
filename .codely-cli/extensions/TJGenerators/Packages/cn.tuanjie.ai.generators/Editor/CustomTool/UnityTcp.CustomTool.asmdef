@@ -1,0 +1,29 @@
+{
+    "name": "UnityTcp.CustomTool",
+    "rootNamespace": "UnityTcp.CustomTool",
+    "references": [
+        "tjgenerators.Editor",
+        "UnityTcp.Editor",
+        "Unity.EditorCoroutines.Editor",
+        "TJGenerators.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Codely.Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "cn.tuanjie.codely.bridge",
+            "expression": "1.0.40",
+            "define": "CODELY_BRIDGE_HAS_NOTIFY_ALL"
+        }
+    ],
+    "noEngineReferences": false
+}

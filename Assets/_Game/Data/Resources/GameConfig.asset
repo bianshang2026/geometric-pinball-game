@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29c53b642904b95419c66caa6dbe05a9, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  fieldWidth: 9
+  fieldHeight: 16
+  wallThickness: 0.5
+  recycleZoneHeight: 0.5
+  launchPos: {x: 0, y: -6.9}
+  ballStock: 3
+  minSpeed: 8
+  maxSpeed: 24
+  maxFlightSeconds: 30
+  minAimElevationDeg: 10
+  cancelDragDist: 0.3
+  predictionBounces: 3
+  predictionDotSpacing: 0.4
+  diamondSpeedMultiplier: 1.25
+  diamondCooldownSeconds: 0.2
+  triangleSpeedFactor: 1.15
+  triangleSlowFactor: 0.87
+  bombExplosionRadius: 1.6
+  bombExplosionDamage: 2
+  chainDelaySeconds: 0.08
+  portalCooldownSeconds: 0.25
+  portalRadius: 0.45
+  chainWindowSeconds: 1.6
+  chainDamagePerLevel: 0.1
+  chainDamageMaxMultiplier: 2
+  maxConcurrentBalls: 6
+  splitCooldownSeconds: 0.12
+  ballBlastRadius: 1.6
+  ballBlastDamage: 3
+  prismLaserCooldown: 0.12
+  prismLaserDamage: 1
+  prismLaserLength: 14
+  pvpLaserInterval: 1.5
+  pvpLaserChargeSeconds: 0.4
+  pvpLaserDamagePvp: 6
+  curveAngleDeg: 22
+  curveRateDegPerSec: 90
+  mirrorEchoDuration: 3
+  mirrorEchoDamageMult: 0.5
+  mirrorEchoSplitAngle: 38
+  phaseDuration: 0.3
+  phaseCooldown: 1.5
+  timeSlowFactor: 0.4
+  timeSlowDuration: 2.5
+  timeSlowCooldown: 0.8
+  timeStopFreezeScale: 0.03
+  timeStopFreezeSeconds: 0.5
+  timeStopOverlayAlpha: 0.35
+  freezeDuration: 2.5
+  energyNodeDuration: 2.5
+  energyNodeBlastRadius: 3
+  gravityFieldRadius: 1.6
+  gravityFieldStrength: 45
+  gravityFieldMinDist: 0.55
+  timeGatePeriod: 2.4
+  timeGateOpenRatio: 0.55
+  bossWeakArcAngle: 100
+  bossWeakArcSpeedDeg: 55
+  bossWeakCritMultiplier: 2
+  bossWeakArmorMultiplier: 0.2
+  gravityBallPullRadius: 2.2
+  gravityBallPullStrength: 60
